@@ -19,4 +19,4 @@
 ];
 ```
 
-- depois de criado a Keym copie a key e utilize-a no seu código
+- depois de criado a Key copie a key e utilize-a no seu código
