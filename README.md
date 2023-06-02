@@ -6,7 +6,15 @@
 
 - rodar npm install
 
+```bash
+npm install
+```
+
 - iniciar a aplicação com npm start
+
+```bash
+npm start
+```
 
 - A biblioteca utilizada é react-bingmaps
 
