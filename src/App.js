@@ -21,6 +21,8 @@ const App = () => {
                                "addHandler": {"type" : "click", callback: () => alert('cliquei num pushpin') }
                               
                             },
+
+                            
                             {
                               location: [-19.46929065, -42.5661732], // coordenadas do marcador
                               option: { color: 'blue', 
