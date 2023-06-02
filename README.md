@@ -1,5 +1,9 @@
 # Bing maps com React
 
+!(./public/maps.jpeg)
+
+## Instruções
+
 - rodar npm install
 
 - iniciar a aplicação com npm start
